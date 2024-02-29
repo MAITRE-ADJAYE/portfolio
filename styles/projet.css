@@ -1,0 +1,25 @@
+.projet_image{
+    
+    border: 2px solid rgb(46, 192, 27);
+    width: 100%;
+}
+.projet_titre{
+    border: 2px solid rgb(212, 21, 21);
+    text-align: center;
+    width: 100%;
+    margin-top: 10%;
+    font-weight: bold;
+
+}
+.projet_contenair{
+   margin-left: 17%;
+    border: 2px solid black; 
+    width: 25%;
+    margin-top: 2%;
+    
+}
+.section_projet{
+    display: flex;
+    margin-top: 15%;
+    flex-wrap: wrap;
+}

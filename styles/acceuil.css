@@ -1,0 +1,111 @@
+.image-acceuil {
+    padding:2%;
+    margin: 3%;
+    background-size: 100% 100%;
+    height: 300%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../images/image-acceuil.jpg');
+}
+
+.mot-bienvenue {
+    text-align: center;
+    font-size: 300%;
+    font-weight:bold;
+    margin-top: 8%;
+    line-height: 1.1725;
+    color: #fdfdff;
+    font-family: Roboto Serif, 'Source Sans Pro';
+    font-weight: 800;
+}
+
+.presentation{
+
+    font-size: 1.5rem;
+    display: flex;
+    
+}
+
+.paragraphe {
+  text-align: center;
+  margin-left: 20%;
+  color: #3b1f1f;
+  width: 80%;
+  height: 110px;
+  margin-top: 10%;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+    
+  }
+
+  .propos-contenu{
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  .propos-1 {
+    font-weight: 200;
+    font-size: 120%;
+    color: #000000;
+    font-family: IM FELL French Canon, 'Source Sans Pro';
+  }
+.propos {
+    
+    font-weight: 00;
+    font-size: 120%;
+    margin-top: -1%;
+    color: #000000;
+    font-family: IM FELL French Canon, 'Source Sans Pro';
+  }
+.presentation-image {
+    margin-right: 30%;
+    width: 50%;
+    border-radius: 5rem 5rem 5rem 5rem;
+    margin-left: 5%;
+    background-image: url('../images/photo_acceuil.jpg');
+    margin-top: 18%;
+
+  }
+
+  .contact{
+    font-weight: 800;
+    font-size: 130%;
+    text-align: center;
+    margin-top: 5%;
+    margin-right: 30%;
+    margin-left: 30%;
+    color: #4d4a4ac2;
+    font-family: Modern Antiqua, 'Source Sans Pro';
+  }
+  
+  body{
+    background: linear-gradient(180deg, #a0cf93 -0%, #fefcfe 100%);
+    height: auto;
+  }
+  .group-header{
+    display: flex;
+  }
+  
+.a_propos_2{
+  margin-left: 40%;
+  font-weight: 800;
+  font-size: 200%;
+  color: #4d4a4ac2;
+}
+.contenair_image_acceuil{
+  width: 60%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+.contenair_a_propos{
+  margin-top: 5%;
+}
+
+.bloc-de-separation{
+  display: block;
+  width: 100%;
+  height: 75px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  box-shadow: 20px 30px 5px  rgba(105, 221, 10, 0.25);
+  background-color: #91b696;
+}

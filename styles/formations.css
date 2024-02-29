@@ -1,0 +1,46 @@
+.formation_image-1{
+    
+    width: 100%;
+}
+.formation_image-2{
+    
+    width: 100%; 
+}  
+
+.formation_titre{
+   
+
+    text-align: center;
+    width: 100%;
+    margin-top: 10%;
+    font-weight: bold;
+    
+}
+.formation_contenair{
+   margin-left: 5%;
+    
+    width: 25%;
+    margin-top: 2%;
+     
+}
+.formation_projet{
+    display: flex;
+    margin-top: 10%;
+    flex-wrap: wrap;
+    
+}
+.section_formation{
+    display: flex;
+    margin-top: 15%;
+    flex-wrap: wrap; 
+}
+.contact{
+    font-weight: 800;
+    font-size: 130%;
+    text-align: center;
+    margin-top: 5%;
+    margin-right: 30%;
+    margin-left: 30%;
+    color: #4d4a4ac2;
+    font-family: Modern Antiqua, 'Source Sans Pro';
+  }

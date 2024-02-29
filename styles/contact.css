@@ -1,0 +1,50 @@
+.reseaux_sociaux {
+    margin-top: 7%;
+    margin-left: 25%;
+   
+    left: 29.85rem;
+    top: 114.1rem;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .gmail {
+    margin-top: 7%;
+    margin-left: 25%;
+    
+    left: 29.85rem;
+    top: 114.1rem;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .appel {
+    margin-top: 7%;
+    margin-left: 25%;
+   
+    left: 29.85rem;
+    top: 114.1rem;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .whatsapp {
+    margin-top: 7%;
+    margin-left: 25%;
+    
+    left: 29.85rem;
+    top: 114.1rem;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .linkedin {
+    margin-top: 7%;
+    margin-left: 25%;
+    
+    left: 29.85rem;
+    top: 114.1rem;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+  }

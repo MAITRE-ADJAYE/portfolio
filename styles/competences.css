@@ -1,0 +1,40 @@
+.competence_contenair{
+    
+    width: 30%;
+    margin-left: 2%;
+   background-color: rgb(243, 248, 243);
+   margin-top: 2%;
+}
+.competence_titre{
+    margin-left: 10%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.4rem
+    
+}
+
+.competences_liste{
+    
+    font-size: 18px
+}
+
+.section_competences{
+   
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.competences_liste2{
+    display: flex;
+  
+}
+
+.competences_3{
+    display: flex;
+    
+}
+
+.competences_progra{
+    margin-left: 5%;
+    margin-left: 20%;
+}
